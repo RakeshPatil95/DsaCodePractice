@@ -5,14 +5,22 @@ public class LeadersInAnArray {
         int arr[] = {7, 10, 4, 10, 6, 5, 2};
         leadersInAnArray(arr);
     }
-// complex. theta(n)
+
+    // complex. theta(n)
     private static void leadersInAnArray(int[] arr) {
-        int curr_leader = arr[arr.length-1];
-        System.out.print(curr_leader+" ");
-        for (int i = arr.length-2; i >=0; i--) {
-            if(arr[i] > curr_leader){
-                curr_leader = arr[i];
-                System.out.print(curr_leader+" ");
+        if (arr.length == 0) {
+            return;
+        }
+
+        if (arr.length == 1) {
+            System.out.println(arr[0]);
+        }
+        int currLeader = arr[arr.length - 1];
+        System.out.print(currLeader + " ");
+        for (int i = arr.length - 2; i >= 0; i--) {
+            if (arr[i] > currLeader) {
+                currLeader = arr[i];
+                System.out.print(currLeader + " ");
             }
         }
     }
