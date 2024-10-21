@@ -33,3 +33,9 @@ d
 4gfgselfplaced/arrays/MaximumCircularSumSubArray.java,5\1\51b5d69da94339be922f85a1ab303157a5b2d19a
 N
 gfgselfplaced/arrays/Main.java,0\2\02c46731311430bedba614d82065f3844676de05
+Y
+)gfgselfplaced/strings/SmallestString.java,a\1\a19207398bce9efaa10b19df08a6cfcfbb157fbc
+X
+(gfgselfplaced/strings/ProductSearch.java,1\f\1f73391fcddee838397965cd65c59c8c9a0f764a
+k
+;gfgselfplaced/arrays/FindFirstAndLastPositionOfElement.java,a\9\a9cfd58ecfe4444c3e92180ce633d91a4de2ee85

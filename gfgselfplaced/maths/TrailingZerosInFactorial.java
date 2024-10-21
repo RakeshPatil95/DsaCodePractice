@@ -1,4 +1,4 @@
-package Coding;
+package gfgselfplaced.maths;
 
 public class TrailingZerosInFactorial {
     public static void main(String[] args) {

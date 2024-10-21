@@ -1,4 +1,4 @@
-package Coding;
+package gfgselfplaced.arrays;
 
 public class SearchInRotatedSortedArray {
     public static void main(String[] args) {

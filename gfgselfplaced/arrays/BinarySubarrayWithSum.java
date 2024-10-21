@@ -1,4 +1,4 @@
-package Coding;
+package gfgselfplaced.arrays;
 
 import java.util.HashMap;
 import java.util.Map;

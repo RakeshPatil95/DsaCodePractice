@@ -1,4 +1,4 @@
-package Coding;
+package gfgselfplaced.arrays;
 
 
 import java.lang.reflect.Array;

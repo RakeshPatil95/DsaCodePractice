@@ -1,4 +1,4 @@
-package Coding;
+package gfgselfplaced.arrays;
 
 public class ConsecativeEvenOddElementOFArray {
     public static void main(String[] args) {
