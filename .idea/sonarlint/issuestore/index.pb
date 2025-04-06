@@ -57,3 +57,11 @@ S
 #gfgselfplaced/arrays/IsRotated.java,a\7\a76aad83d28565e99dafd71d78968fae03abd8ee
 ]
 -gfgselfplaced/arrays/LocalMinimumMaximum.java,8\8\88290d8c7fe4b2073e8e768b66707af1f361e0d1
+J
+striversAToZ/Patterns.java,c\0\c00c23a02f53a814f7df3c419b23272cb41e0252
+Z
+*gfgselfplaced/arrays/CheckSubarraySum.java,0\8\08a8c83dcf5931e1816e820ae95b680afcfade8a
+V
+&gfgselfplaced/hashing/Frequencies.java,5\2\5260d925b34d150af9b6e1cff79372a1c9ce3bb7
+_
+/leetCode/FrequencyOfTheMostFrequentElement.java,f\1\f13a326559fbf08bb324cecdfd0df443d566f3bc

@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢ğ¼Øùÿÿÿÿ8“ò¬½¬2J$058e66a2-70dd-47d8-81b3-c5553db3ffae
+r	java:S106	"+Replace this use of System.out by a logger.(Ëï‰’ùÿÿÿÿ8£ò¬½¬2J$93c6d335-1eb0-4340-b14c-7aa1790beae7
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÓ¶´úÿÿÿÿ8£ò¬½¬2J$51b7a070-8ffc-453f-b95d-29ee3059a302
+z
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¤½½¬2J$090aa3a9-d39b-456a-abb7-d3ea7e558b61
+t
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8¤½½¬2J$e9ed405d-4656-42a6-9c88-5b78f723398c

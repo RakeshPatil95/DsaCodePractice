@@ -1,0 +1,28 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰·ˆõúÿÿÿÿ8øà¼õ«2J$fe4ad25e-5465-4cb8-9ed9-178f623c03cf
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨ìõ¤üÿÿÿÿ8øà¼õ«2J$4931363e-b4a6-48fe-ad8c-e9bea056db5d
+t
+java:S1144"",Remove this unused private "tringle" method.(Ã¡ÝÍøÿÿÿÿ8ÿŠ½õ«2J$5c74e143-0227-48e1-a52f-58d42042ee5e
+w
+java:S1144."4Remove this unused private "leftSideNumbers" method.(¶ÈÉ¿8 á¼õ«2J$9af3a7f2-cf07-4d56-90c8-decbffce3be4
+w
+java:S11447"4Remove this unused private "leftSideTringle" method.(¸‡Éä8 á¼õ«2J$e1833d13-099f-4ddd-b64e-c461eb41b2dd
+y
+java:S1144@"1Remove this unused private "quarePattern" method.(–°ÏËüÿÿÿÿ8 á¼õ«2J$ab262ad5-4ba0-4dbc-8e7e-e505f92ceb94
+~	java:S125"<This block of commented-out lines of code should be removed.(õ¾þ¸8¡á¼õ«2J$7ce662b1-e2b9-4e59-bdcf-f9462e85ae61
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(‰·ˆõúÿÿÿÿ8´á¼õ«2J$af35ac97-d395-4ab6-a009-75448db5c292
+r	java:S106"+Replace this use of System.out by a logger.(‹µ‹¶ýÿÿÿÿ8¶á¼õ«2J$2dd81fd2-ba41-4569-85d3-2ecf9ce9093e
+m	java:S106"+Replace this use of System.out by a logger.(×•œ²8¾á¼õ«2J$09a9e547-5529-4c31-b492-e6ed6b0629ce
+r	java:S106"+Replace this use of System.out by a logger.(‹µ‹¶ýÿÿÿÿ8Âá¼õ«2J$6d6e6bf0-c4ec-4ca5-ac88-5d699f4924b3
+m	java:S106"+Replace this use of System.out by a logger.(×•œ²8Âá¼õ«2J$7b2a1dc7-b244-43ad-aa37-c3d97e3ae72e
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Âá¼õ«2J$5063c985-c40c-4d3d-b9f2-d64b26f10de9
+r	java:S106%"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Êá¼õ«2J$3f788a86-f97b-46e8-bd4c-6adfd74675b1
+r	java:S106'"+Replace this use of System.out by a logger.(ŽáôÔøÿÿÿÿ8Íá¼õ«2J$761b3e3b-d922-46d5-b52c-d0d57b476cde
+r	java:S106*"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Ïá¼õ«2J$bb6f793e-bdf0-4c33-bcb5-66f1fafacd4e
+r	java:S1061"+Replace this use of System.out by a logger.(Ãä¤ûÿÿÿÿ8Òá¼õ«2J$da1f4708-c2ee-4d98-ac78-cfb939aa978c
+r	java:S1063"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Óá¼õ«2J$9c042e94-ec94-4281-9db6-a9b270e96d73
+r	java:S106:"+Replace this use of System.out by a logger.(ŽáôÔøÿÿÿÿ8Õá¼õ«2J$87ebfa83-ef51-41fa-a437-783527914808
+r	java:S106<"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Õá¼õ«2J$0f1aea94-bed0-4e99-bbb7-d94d66980343
+r	java:S106C"+Replace this use of System.out by a logger.(ŽáôÔøÿÿÿÿ8Üá¼õ«2J$0964180f-238a-470b-9bb4-c6b160d4edf4
+r	java:S106E"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ßá¼õ«2J$ce4cb177-7db2-4c78-8485-6c81ae593346
