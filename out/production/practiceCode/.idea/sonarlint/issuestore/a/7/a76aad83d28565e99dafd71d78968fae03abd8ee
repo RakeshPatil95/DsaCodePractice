@@ -1,0 +1,6 @@
+
+k	java:S106"+Replace this use of System.out by a logger.(†þ×êýÿÿÿÿJ$fb84a8a0-2be1-4448-b05e-70055bd78bd3
+n
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜ÉüÿÿÿÿJ$b3985464-c429-4c6f-a064-0080b9a9e336
+j
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›J$6e98ce28-4525-4c09-8302-9dce97049478
