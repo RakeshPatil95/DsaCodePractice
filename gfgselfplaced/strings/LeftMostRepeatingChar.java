@@ -7,8 +7,22 @@ public class LeftMostRepeatingChar {
         String str = "abccbd";
         String str1 = "abcd";
         String str3 = "1abc23";
-        System.out.println(leftMostRepeatingChar(str1));
+        System.out.println(leftMostRepeatingChar(str));
+        System.out.println(leftMostRepeatingCharUsingBoolArray(str1));
         System.out.println(findSum(str3));
+    }
+
+    private static int leftMostRepeatingCharUsingBoolArray(String str1) {
+        boolean[] visited = new boolean[256];
+        int result = Integer.MAX_VALUE;
+        for (int i = str1.length() - 1; i > 0; i--) {
+            if (visited[str1.charAt(i)]) {
+                result = Math.min(result, i);
+            } else {
+                visited[str1.charAt(i)] = true;
+            }
+        }
+        return result == Integer.MAX_VALUE ? -1 : result;
     }
 
     private static int leftMostRepeatingChar(String str) {
@@ -26,13 +40,12 @@ public class LeftMostRepeatingChar {
         return result == Integer.MAX_VALUE ? -1 : result;
     }
 
-    public static long findSum(String str)
-    {
-        String []arr=str.split("[A-Za-z]");
-        int sum=0;
-        for(int i=0;i<arr.length;i++){
-            if(!arr[i].equals(""))
-                sum+=Integer.parseInt(arr[i]);
+    public static long findSum(String str) {
+        String[] arr = str.split("[A-Za-z]");
+        int sum = 0;
+        for (int i = 0; i < arr.length; i++) {
+            if (!arr[i].equals(""))
+                sum += Integer.parseInt(arr[i]);
         }
         return sum;
 
